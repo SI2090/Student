@@ -122,7 +122,7 @@ student_2.finished_courses += ["Введение в програмировани
 lecturer_1 = Lecturer('Виктор', 'Ильин')
 lecturer_1.courses_attached += ['Python']
 
-lecturer_2 = Lecturer('Ирина', 'Свиридова')
+lecturer_2 = Lecturer(' Ольга', 'Свиридова')
 lecturer_2.courses_attached += ['Python']
 
 # Проверяющие
